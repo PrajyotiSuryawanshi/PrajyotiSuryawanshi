@@ -66,7 +66,7 @@
 
 - ✅ Masai School – Certified
 - ✅ Selenium WebDriver with Java
-- ✅ Cypress WebDriver with JavaScript 
+- ✅ Cypress with JavaScript 
 - ✅ API Testing with Postman 
 - ✅ Performance Testing with JMeter 
 
