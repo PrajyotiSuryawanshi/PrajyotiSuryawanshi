@@ -82,18 +82,6 @@
 
 ---
 
-### 📖 Blog & Learning
-
-📚 I'm actively sharing QA learnings via blog:
-
-- [Top 10 Selenium Interview Questions](https://your-blog.com/selenium-top-questions)
-- [Manual vs Automation Testing: When to Use What](https://your-blog.com/manual-vs-automation)
-- [Understanding XPath & CSS Selectors](https://your-blog.com/locators-guide)
-
-✏️ *Open to writing guest blogs and QA mentoring!*
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
