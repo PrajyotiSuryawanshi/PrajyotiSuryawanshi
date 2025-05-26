@@ -4,7 +4,7 @@
 <h3 align="center">🚀 QA Engineer | Manual & Automation Tester | Selenium + Cypress | 🚀 Bug Hunter | 💡 Quality Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Manual Testing in action"/>
+ <img alt="testing" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952qr1f9ajsnw2dzrnkh1tv6t5ezn3ysep27bmrxjhx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </p>
 
 ---
