@@ -65,7 +65,8 @@
 ### 🏆 Certifications
 
 - ✅ Masai School – Certified
-- ✅ Selenium WebDriver with Java 
+- ✅ Selenium WebDriver with Java
+- ✅ Cypress WebDriver with JavaScript 
 - ✅ API Testing with Postman 
 - ✅ Performance Testing with JMeter 
 
@@ -76,6 +77,7 @@
 | Project                           | Description                                               | Tech Used                          |
 |-----------------------------------|-----------------------------------------------------------|------------------------------------|
 | **E-Commerce UI Test Framework**  | POM-based UI test framework using Selenium & TestNG       | Java, Selenium, TestNG, Maven      |
+| **E-Commerce UI Test Framework**  | POM-based UI test framework using Cypress                 | JavaScript, Cypress                |
 | **API Automation Suite**          | Automated REST API collection                             | Postman, JavaScript                |
 | **Performance Dashboard**         | Load tested login & search flows                          | Apache JMeter                      |
 | **Security Login Audit**          | SQL Injection and XSS vulnerability test                  | Burp Suite                         |
